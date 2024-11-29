@@ -33,7 +33,7 @@ void dsf(int row, int col, int n, int m, vector<vector<int>>& image, vector<vect
         int m = image[0].size();
 
         vector<vector<bool>> vis(n, vector<bool>(m, false));
-        dsf(sr, sc, n, m, image, vis, color, image[sr][sr]);
+        dsf(sr, sc, n, m, image, vis, color, image[sr][sc]);
         return image;
     }
 };
