@@ -1,0 +1,26 @@
+
+11 - Arrays (part ||) - 020608
+12 - Basic Sorting Algorithms
+13 - 2D Arrays
+16 - Bit Manipulations
+19,20 - Recursion - lastOccurence, xToThePowerN removeDuplicates, binaryString
+21 - Divide & Conquer - mergeSort, quickSort, 10
+24 - Backtracking - 06, 11, 13, 18
+25,26 - Linked List - LLEverything - searchRec, reverse, 02full, 12doublyLinkedList
+27 - Stacks (part |) - 040512
+28 - Stacks (part ||) - 020409
+29 - Queue - 03050608101114
+30 - Greedy Algorithms - 0408111314(15*-lamdaFunction)
+31,32,33 - Binary Trees (part |, part ||, part |||) - 04full, 02full07, 01full or only 01full
+34,35 - BST (part |, part ||) - 03full, 02full
+36,37 - Heaps (part |, part ||) - 06, 0104060810 or all
+38,39 - Hashing (part |, part ||) - 0513, 02040506081012 or all
+40 - Tries - 03101214 or all
+41 - Graphs (part |) - 06weight08
+42 - Graphs (part ||) - 04
+43,44 - Graphs (part |||, part |V) - all
+
+47,48,49 - DP (part ||, part |||, part |V) - all
+
+
+

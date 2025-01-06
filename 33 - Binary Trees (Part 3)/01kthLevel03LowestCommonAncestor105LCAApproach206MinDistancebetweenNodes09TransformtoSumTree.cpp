@@ -379,6 +379,16 @@ int transform(Node* root) { //O(n)
     return currOld;
 }
 
+int transform2(Node* root) {
+    if(!root) return 0;
+
+    int currOld = root->data;
+
+    root->data = transform2(root->left) + transform2(root->right);
+
+    return root->data + currOld;
+}
+
 int main() { 
     vector<int> nodes = {1, 2, 4, -1, -1, 5, -1, -1, 3, -1, 6, -1, -1};
     Node* root = buildTree(nodes);
